@@ -2,9 +2,6 @@
 
 ---
 
-<p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banner.jpg">
-</p>
 
 ## Project Overview
 This project leverages Power BI to provide in-depth financial insights for banking institutions. By analyzing 'Banking Transactions' and 'Customer Account Details' datasets, we aim to help banks make informed decisions about customer relationships, risk assessment, and product offerings.
