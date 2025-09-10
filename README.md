@@ -45,11 +45,6 @@ This project leverages Power BI to provide in-depth financial insights for banki
 - **Risk Assessment**: Enhanced risk management through comprehensive credit score analysis.
 - **Strategic Decision-Making**: Data-driven insights enabled informed strategic decisions, improving overall performance and customer satisfaction.
 
-<p align="center">
-    <img src="https:/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
-</p>
-
-
 ## Conclusion
 This project demonstrates the power of data analysis and visualization in transforming raw banking data into actionable insights. By leveraging Power BI and advanced analytics, banking institutions can optimize their services, manage risks more effectively, and enhance customer satisfaction.
 
