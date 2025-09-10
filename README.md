@@ -46,7 +46,7 @@ This project leverages Power BI to provide in-depth financial insights for banki
 - **Strategic Decision-Making**: Data-driven insights enabled informed strategic decisions, improving overall performance and customer satisfaction.
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
+    <img src="https:/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
 </p>
 
 
